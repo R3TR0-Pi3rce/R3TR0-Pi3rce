@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on making my own llm.<br>🤝 I’m looking for help with seeking jobs in the game development field and in <br>🌱 I’m currently learning Unity and would learn godot and unreal after that<br>
+🔭 I’m currently working on making my own llm.<br>🤝 I’m looking for help with seeking jobs in the game development field and in IT sector<br>🌱 I’m currently learning Unity and would learn godot and unreal after that<br>
 
 
 ## 🌐 Socials:
